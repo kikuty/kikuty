@@ -1,6 +1,5 @@
 Hello, I'm Yoshinao Kikuchi 👋
 - 🌱 I’m currently learning how to utilize sensors, collect, and share data.
-- ⚡ Fun fact: Mountain Climbing and Whtching Baseball
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikuty&layout=compact)
 
